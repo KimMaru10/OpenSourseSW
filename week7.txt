@@ -1,5 +1,5 @@
 <html>
 <body>
-Merge와 충돌 해결을 위한 예제입니다.
+kim-branch에서 내용을 변경하였습니다.
 <body/>
 </html>
